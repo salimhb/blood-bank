@@ -7,7 +7,7 @@ tags:
   people: [jan_kus, jakob_hilden]
 ---
 
-1On the 13/14th of April, Railslove will help to bring a very special Rails event to you: Railsgirls will take place in Berlin!
+2 On the 13/14th of April, Railslove will help to bring a very special Rails event to you: Railsgirls will take place in Berlin!
 Railsgirls is a workshop where women can learn how to write a Rails application from scratch. It aims to give them the tools and vocabulary to build the web as they see it. The focus is on building things, not only programming, so the curriculum also includes some design and marketing flavors. Best: no previous knowledge needed. Even better: it’s non-profit, that means totally free for participants!
 Quoting Karri Saarinen, one of the organisers:
 The Internet was built by and for boys. As a girl, one often feels like lacking the vocabulary to access it. With Rails for Girls, we want to demystify the world of web applications and encourage women to learn about software development and programming. We believe that women need the skills and language to understand that world.
