@@ -1,5 +1,5 @@
 ---
-title: Railsgirls comes to Berlin
+title: Railsgirls comes to Berlin in April
 author: lena_herrmann
 tags:
   text: [railslove, university]
