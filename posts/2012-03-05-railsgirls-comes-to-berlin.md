@@ -5,7 +5,7 @@ tags:
   text: [railslove, university]
   project: [9flats, jobmensa]
   person: [jan_kus, jakob_hilden]
-published_at: bad date
+published_at: 2012-03-05 14:00:00
 ---
 
 4 On the 13/14th of April, Railslove will help to bring a very special Rails event to you: Railsgirls will take place in Berlin!
