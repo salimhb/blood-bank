@@ -1,10 +1,11 @@
 ---
-title: Railsgirls comes to Berlin in April
+title: Railsgirls comes to Berlin
+slug: railsgirls-comes-to-berlin
 author: lena_herrmann
 tags:
-  text: [railslove, university]
+  keyword: [railslove, university]
   project: [9flats, jobmensa]
-  person: [jan_kus, jakob_hilden]
+  people: [jan_kus, jakob_hilden]
 published_at: 2012-03-05 14:00:00
 ---
 
