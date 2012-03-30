@@ -12,3 +12,5 @@ published_at: 2012-03-30 12:00:00
 Launch! Launch! Launch!
 
 <script src="https://gist.github.com/1923194.js?file=showoff-content-classes-to-slide"></script>
+
+<img src="../images/people/jakob/portrait.jpg" />
