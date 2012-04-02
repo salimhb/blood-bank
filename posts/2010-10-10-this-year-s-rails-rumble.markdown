@@ -1,6 +1,6 @@
 --- 
 title: This year&Acirc;&acute;s Rails Rumble
-slug: this-year%c2%b4s-rails-rumble
+slug: this-year-s-rails-rumble
 author: tatjana_lajendacker
 published: true
 author_name: tatjana

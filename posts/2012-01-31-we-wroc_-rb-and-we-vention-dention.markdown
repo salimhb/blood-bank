@@ -1,6 +1,6 @@
 --- 
 title: "We @ Wroc_&acirc;\xC2\x9D&curren;.rb and we &acirc;\xC2\x9D&curren; Vention Dention"
-slug: we-wroc_%e2%9d%a4-rb-and-we-%e2%9d%a4-vention-dention
+slug: we-wroc_-rb-and-we-vention-dention
 author: jan_kus
 published: true
 author_name: Jan

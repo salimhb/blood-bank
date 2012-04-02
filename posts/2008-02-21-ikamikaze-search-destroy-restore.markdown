@@ -1,6 +1,6 @@
 --- 
 title: "iKamikaze: &acirc;??Search, Destroy & Restore&acirc;?\xC2\x9D"
-slug: ikamikaze-%e2%80%9csearch-destroy-restore%e2%80%9d
+slug: ikamikaze-search-destroy-restore
 author: tim_schneider
 published: true
 author_name: Tim

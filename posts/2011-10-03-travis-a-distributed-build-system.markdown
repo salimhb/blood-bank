@@ -1,6 +1,6 @@
 --- 
 title: Travis &acirc;?? a distributed build system
-slug: travis-%e2%80%93-a-distributed-build-system
+slug: travis-a-distributed-build-system
 author: jan_kus
 published: true
 author_name: Jan

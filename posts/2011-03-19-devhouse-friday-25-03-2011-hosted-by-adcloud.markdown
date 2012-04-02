@@ -1,6 +1,6 @@
 --- 
 title: DevHouse Friday &acirc;?? 25.03.2011 hosted by adcloud
-slug: devhouse-friday-%e2%80%93-25-03-2011-hosted-by-adcloud
+slug: devhouse-friday-25-03-2011-hosted-by-adcloud
 author: jan_kus
 published: true
 author_name: Jan
