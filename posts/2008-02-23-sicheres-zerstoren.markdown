@@ -1,7 +1,7 @@
 --- 
 title: "\"sicheres\" Zerst&Atilde;&para;ren"
 slug: sicheres-zerstoren
-author: sebastian_kippe
+author: jan_kus
 published: true
 author_name: basti
 author_email: basti@railslove.com
