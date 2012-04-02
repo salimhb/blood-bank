@@ -1,0 +1,19 @@
+--- 
+title: "DRUG #25"
+slug: drug-25
+author: mike_poltyn
+published: true
+author_name: mike
+author_email: mike@railslove.com
+author_url: http://mike.poltyn.com
+wordpress_id: 1208
+wordpress_url: http://blog.railslove.com/?p=1208
+published_at: 2012-01-11 19:03:20 +01:00
+categories: 
+- railslove
+---
+During my leave in beautiful <a href="http://enwp.org/Wroc%C5%82aw">Wroc&Aring;?aw</a>, I had a chance to attend <a href="http://drug.org.pl/spotkania/drug-25">DRUG #25</a> meet-up. DRUG (Dolno&Aring;?l&Auml;?ska Grupa U&Aring;&frac14;ytkownik&Atilde;&sup3;w Ruby) is Lower Silesian Ruby user group, and their meetings usually take place once a month.
+
+Andrzej Krzywda <a href="https://twitter.com/andrzejkrzywda/status/148152712909963264">introduced me</a> to a non-written rule of DRUG, which states "[i]f it's your first time then you are presenting a talk". I presented <a href="https://github.com/Holek/travis-talk-2011-wroclaw">a quick talk</a> about <a href="http://travis-ci.org">Travis CI</a>. While it came as no surprise, that everybody knew the topic, it was especially nice to see people asking more detailed questions about current state, the future and sharing what they have done with Travis.
+
+The people I met are tremendous and I will be happy to see them again on <a href="http://wrocloverb.com">Wroclove.rb</a>! Big thanks to all attending and especially to <a href="http://twitter.com/kolarzowski">@kolarzowski</a>, <a href="https://twitter.com/piterniel">@piterniel</a> for having me at their office during my leave. See you all soon!
