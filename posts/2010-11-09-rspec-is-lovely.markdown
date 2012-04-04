@@ -1,4 +1,4 @@
---- 
+---
 title: Rspec Is Lovely
 slug: rspec-is-lovely
 author: red_davis
@@ -8,15 +8,15 @@ author_email: reddavis@gmail.com
 author_url: http://redwriteshere.com/
 wordpress_id: 739
 wordpress_url: http://blog.railslove.com/?p=739
-published_at: 2010-11-09 16:28:24 +01:00
-categories: 
+published_at: 2010-11-09 16:28:24.000000000 +01:00
+categories:
 - ruby
-tags: 
-  keyword: 
+tags:
+  keyword:
   - testing
   - rspec
 ---
-Several months ago my choice of testing framework was TestUnit + Shoulda. Rspec looked good, but I didn't see what made it&Acirc;&nbsp;particularly&Acirc;&nbsp;special.
+Several months ago my choice of testing framework was TestUnit + Shoulda. Rspec looked good, but I didn't see what made it particularly special.
 
 When working on a client project which was using Rspec I decided to properly look into it. What I found was that it made my tests incredibly organised and very easy to follow. Below are some methods I take when writing Rspec tests.
 <h3>Describes</h3>

@@ -1,4 +1,4 @@
---- 
+---
 title: Barcamp Berlin 3 impressions
 slug: barcamp-berlin-3-impressions
 author: michael_bumann
@@ -8,11 +8,11 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 46
 wordpress_url: http://blog.railslove.com/?p=46
-published_at: 2008-10-21 21:13:36 +02:00
-categories: 
+published_at: 2008-10-21 21:13:36.000000000 +02:00
+categories:
 - railslove-on-tour
-tags: 
-  keyword: 
+tags:
+  keyword:
   - barcamp
   - barcampberlin
   - berlin

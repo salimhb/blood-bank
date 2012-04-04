@@ -1,4 +1,4 @@
---- 
+---
 title: Short Update on Railslove
 slug: short-update-on-railslove
 author: tim_schneider
@@ -8,8 +8,8 @@ author_email: tim@railslove.com
 author_url: http://railslove.com
 wordpress_id: 971
 wordpress_url: http://blog.railslove.com/?p=971
-published_at: 2011-08-10 14:35:41 +02:00
-categories: 
+published_at: 2011-08-10 14:35:41.000000000 +02:00
+categories:
 - railslove
 ---
 Hey there,

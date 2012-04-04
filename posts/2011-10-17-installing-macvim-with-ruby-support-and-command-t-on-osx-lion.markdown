@@ -1,4 +1,4 @@
---- 
+---
 title: Installing MacVim with Ruby support and Command T on OSX Lion
 slug: installing-macvim-with-ruby-support-and-command-t-on-osx-lion
 author: paul_wittmann
@@ -8,8 +8,8 @@ author_email: paul@railslove.com
 author_url: http://
 wordpress_id: 1119
 wordpress_url: http://blog.railslove.com/?p=1119
-published_at: 2011-10-17 19:21:31 +02:00
-categories: 
+published_at: 2011-10-17 19:21:31.000000000 +02:00
+categories:
 - railslove
 - vim
 ---
@@ -50,7 +50,7 @@ $ git submodule add git://git.wincent.com/command-t.git bundle/command-t
 $ git submodule init
 $ git clone git://git.wincent.com/command-t.git bundle/command-t
 <ul>
-	<li>with the&Acirc;&nbsp;<strong>same</strong> version of Ruby activated you used to install MacVim (Ruby 1.9.2p290 in my case), run:</li>
+	<li>with the <strong>same</strong> version of Ruby activated you used to install MacVim (Ruby 1.9.2p290 in my case), run:</li>
 </ul>
 $ cd ~/.vim/bundle/command-t
 $ rake make
@@ -80,5 +80,5 @@ Check: $ mvim --version or :version inside of MacVim should list "-ruby", if you
 <h2>Resources</h2>
 <ul>
 	<li><a href="https://github.com/ralph/dotvim">https://github.com/ralph/dotvim</a> Ralph's .vim files - certainly more well-honed and better organized than my own.</li>
-	<li><a href="https://github.com/paulwittmann/vimrc-osx">https://github.com/paulwittmann/vimrc-osx</a> my current .vimrc &amp; plugins on OSX. Still lacking some features, but more cleaned up than my <a href="https://github.com/paulwittmann/vimrc">old one</a> for Ubuntu.</li>
+	<li><a href="https://github.com/paulwittmann/vimrc-osx">https://github.com/paulwittmann/vimrc-osx</a> my current .vimrc & plugins on OSX. Still lacking some features, but more cleaned up than my <a href="https://github.com/paulwittmann/vimrc">old one</a> for Ubuntu.</li>
 </ul>

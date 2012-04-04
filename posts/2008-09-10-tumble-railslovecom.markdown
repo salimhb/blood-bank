@@ -1,4 +1,4 @@
---- 
+---
 title: tumble.railslove.com
 slug: tumble-railslovecom
 author: michael_bumann
@@ -8,8 +8,8 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 38
 wordpress_url: http://blog.railslove.com/?p=38
-published_at: 2008-09-10 12:17:47 +02:00
-categories: 
+published_at: 2008-09-10 12:17:47.000000000 +02:00
+categories:
 - railslove
 ---
 Yeah... this blog has a little brother: <a href="http://tumble.railslove.com">tumble.railslove.com</a> - our little tumblelog. <br />

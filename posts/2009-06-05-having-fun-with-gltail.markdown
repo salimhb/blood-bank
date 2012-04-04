@@ -1,4 +1,4 @@
---- 
+---
 title: Having fun with glTail
 slug: having-fun-with-gltail
 author: jan_kus
@@ -8,11 +8,11 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 398
 wordpress_url: http://blog.railslove.com/?p=398
-published_at: 2009-06-05 16:26:40 +02:00
-categories: 
+published_at: 2009-06-05 16:26:40.000000000 +02:00
+categories:
 - railslove
-tags: 
-  keyword: 
+tags:
+  keyword:
   - fun
   - gltail
   - serverstatistics

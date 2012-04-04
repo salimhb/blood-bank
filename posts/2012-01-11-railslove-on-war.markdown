@@ -1,4 +1,4 @@
---- 
+---
 title: Railslove at war
 slug: railslove-on-war
 author: michael_bumann
@@ -8,8 +8,8 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 1205
 wordpress_url: http://blog.railslove.com/?p=1205
-published_at: 2012-01-11 18:44:20 +01:00
-categories: 
+published_at: 2012-01-11 18:44:20.000000000 +01:00
+categories:
 - railslove
 ---
 Today, January 11th, 2012 - a date which will live in infamy - <a href="http://railslove.com">Railslove</a> was suddenly and deliberately attacked by the dark forces of <a href="http://9elements.com">9elements</a>.

@@ -1,4 +1,4 @@
---- 
+---
 title: JSON Schema Baby
 slug: json-schema-baby
 author: jan_kus
@@ -8,13 +8,13 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 1001
 wordpress_url: http://blog.railslove.com/?p=1001
-published_at: 2011-09-05 19:43:02 +02:00
-categories: 
+published_at: 2011-09-05 19:43:02.000000000 +02:00
+categories:
 - railslove
 - rails
 - ruby
-tags: 
-  keyword: 
+tags:
+  keyword:
   - rails
   - api
   - ruby

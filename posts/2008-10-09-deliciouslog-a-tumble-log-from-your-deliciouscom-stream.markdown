@@ -1,5 +1,5 @@
---- 
-title: "deliciousLOG - a tumble log from your delicious.com stream "
+---
+title: ! 'deliciousLOG - a tumble log from your delicious.com stream '
 slug: deliciouslog-a-tumble-log-from-your-deliciouscom-stream
 author: michael_bumann
 published: true
@@ -8,11 +8,11 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 43
 wordpress_url: http://blog.railslove.com/?p=43
-published_at: 2008-10-09 00:37:51 +02:00
-categories: 
+published_at: 2008-10-09 00:37:51.000000000 +02:00
+categories:
 - app-a-day
-tags: 
-  keyword: 
+tags:
+  keyword:
   - appaday
   - delicious
   - tumble

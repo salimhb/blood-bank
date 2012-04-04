@@ -1,4 +1,4 @@
---- 
+---
 title: Nerds/Cookbooks
 slug: nerdscookbooks
 author: jan_kus
@@ -8,8 +8,8 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 997
 wordpress_url: http://blog.railslove.com/?p=997
-published_at: 2011-08-23 19:52:09 +02:00
-categories: 
+published_at: 2011-08-23 19:52:09.000000000 +02:00
+categories:
 - railslove
 - plugins
 ---

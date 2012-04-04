@@ -1,4 +1,4 @@
---- 
+---
 title: Poken-Action im Railslove HQ
 slug: poken-action-im-railslove-hq
 author: michael_bumann
@@ -8,11 +8,11 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 233
 wordpress_url: http://blog.railslove.com/?p=233
-published_at: 2009-05-11 00:49:35 +02:00
-categories: 
+published_at: 2009-05-11 00:49:35.000000000 +02:00
+categories:
 - railslove
-tags: 
-  keyword: 
+tags:
+  keyword:
   - poken
   - pokenvision
 ---

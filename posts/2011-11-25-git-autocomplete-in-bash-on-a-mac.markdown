@@ -1,4 +1,4 @@
---- 
+---
 title: Git autocomplete in bash on a Mac
 slug: git-autocomplete-in-bash-on-a-mac
 author: mike_poltyn
@@ -8,8 +8,8 @@ author_email: mike@railslove.com
 author_url: http://mike.poltyn.com
 wordpress_id: 1178
 wordpress_url: http://blog.railslove.com/?p=1178
-published_at: 2011-11-25 11:24:44 +01:00
-categories: 
+published_at: 2011-11-25 11:24:44.000000000 +01:00
+categories:
 - railslove
 ---
 I've been using Linux and bash for great chunk of time for web development, and it always had great features like autocomplete, that I didn't get by default on a Mac.

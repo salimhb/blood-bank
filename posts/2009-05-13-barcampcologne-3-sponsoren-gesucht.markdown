@@ -1,4 +1,4 @@
---- 
+---
 title: BarcampCologne 3 - Sponsoren gesucht!
 slug: barcampcologne-3-sponsoren-gesucht
 author: jan_kus
@@ -8,13 +8,13 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 273
 wordpress_url: http://blog.railslove.com/?p=273
-published_at: 2009-05-13 12:28:55 +02:00
-categories: 
+published_at: 2009-05-13 12:28:55.000000000 +02:00
+categories:
 - railslove
 ---
 Ein Aufruf an alle: das B<a href="http://barcampcologne.mixxt.de/">arcamp Cologne 3</a> sucht noch Sponsoren!
 
-Als "alte Barcamp-Hasen" und <a href="http://barcampcologne.pbworks.com/Organisation">fr&Atilde;&frac14;here Mitorganisatoren</a> haben wir uns dazu entschieden mitzuhelfen und nun sind wir auf der <a href="http://www.slideshare.net/assbach/bcc3-sponsoren?type=powerpoint">Sponsorenliste</a> gelandet!
+Als "alte Barcamp-Hasen" und <a href="http://barcampcologne.pbworks.com/Organisation">frühere Mitorganisatoren</a> haben wir uns dazu entschieden mitzuhelfen und nun sind wir auf der <a href="http://www.slideshare.net/assbach/bcc3-sponsoren?type=powerpoint">Sponsorenliste</a> gelandet!
 
 Daher: Hurry Up! Mehr Informationen zum Sponsoring gibts auf der <a href="http://barcampcologne.mixxt.de/networks/wiki/index.sponsoren">Sponsorenseite vom BCC3</a>!
 

@@ -1,4 +1,4 @@
---- 
+---
 title: Make email a better citizen of the modern HTTP world...
 slug: make-email-a-better-citizen-of-the-modern-http-world
 author: michael_bumann
@@ -8,8 +8,8 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 265
 wordpress_url: http://blog.railslove.com/?p=265
-published_at: 2009-05-12 02:10:59 +02:00
-categories: 
+published_at: 2009-05-12 02:10:59.000000000 +02:00
+categories:
 - railslove
 ---
 <p>We're currently adding some mail-in functionality to some web applications. You know like emailing stuff to an application which then does fancy things with it.<br /> And honestly the code for this really sucks. It works... but I'm not very happy with our solution: </p>

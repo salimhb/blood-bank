@@ -1,5 +1,5 @@
---- 
-title: "Railslove Hackathon 2012 #rlhck2012 #rlhck"
+---
+title: ! 'Railslove Hackathon 2012 #rlhck2012 #rlhck'
 slug: railslove-hackathon-2012-rlhck2012-rlhck
 author: jan_kus
 published: true
@@ -8,11 +8,11 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 1330
 wordpress_url: http://blog.railslove.com/?p=1330
-published_at: 2012-03-20 14:45:36 +01:00
-categories: 
+published_at: 2012-03-20 14:45:36.000000000 +01:00
+categories:
 - railslove
-tags: 
-  keyword: 
+tags:
+  keyword:
   - railslove
   - hackathon
 ---

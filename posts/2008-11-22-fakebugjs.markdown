@@ -1,5 +1,5 @@
---- 
-title: "fakebug.js "
+---
+title: ! 'fakebug.js '
 slug: fakebugjs
 author: michael_bumann
 published: true
@@ -8,8 +8,8 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 58
 wordpress_url: http://blog.railslove.com/?p=58
-published_at: 2008-11-22 04:03:59 +01:00
-categories: 
+published_at: 2008-11-22 04:03:59.000000000 +01:00
+categories:
 - railslove
 ---
 <p>So, we all use and love <a href="http://getfirebug.com">Firebug</a>. It makes developing and debugging Web Applications and especially JavaScript so much easier. Most of our JavaScript files contain at some point a <strong>console.log</strong> call.</p>

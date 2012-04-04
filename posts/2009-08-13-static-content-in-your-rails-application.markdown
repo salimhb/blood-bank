@@ -1,4 +1,4 @@
---- 
+---
 title: Static content in your Rails application
 slug: static-content-in-your-rails-application
 author: michael_bumann
@@ -8,14 +8,14 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 472
 wordpress_url: http://blog.railslove.com/?p=472
-published_at: 2009-08-13 15:27:15 +02:00
-categories: 
+published_at: 2009-08-13 15:27:15.000000000 +02:00
+categories:
 - rails
 - cool-stuff-on-github
 - plugins
 - yai7d
-tags: 
-  keyword: 
+tags:
+  keyword:
   - static-pages
   - content
 ---

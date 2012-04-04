@@ -1,4 +1,4 @@
---- 
+---
 title: Merb meets Rails - a Christmas gift
 slug: merb-meets-rails-a-christmas-gift
 author: michael_bumann
@@ -8,11 +8,11 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 62
 wordpress_url: http://blog.railslove.com/?p=62
-published_at: 2008-12-24 01:57:58 +01:00
-categories: 
+published_at: 2008-12-24 01:57:58.000000000 +01:00
+categories:
 - railslove
-tags: 
-  keyword: 
+tags:
+  keyword:
   - rails
   - merb
   - love

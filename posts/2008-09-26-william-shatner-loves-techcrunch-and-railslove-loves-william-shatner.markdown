@@ -1,4 +1,4 @@
---- 
+---
 title: William Shatner Loves TechCrunch and Railslove loves William Shatner
 slug: william-shatner-loves-techcrunch-and-railslove-loves-william-shatner
 author: jan_kus
@@ -8,11 +8,11 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 41
 wordpress_url: http://blog.railslove.com/?p=41
-published_at: 2008-09-26 15:10:01 +02:00
-categories: 
+published_at: 2008-09-26 15:10:01.000000000 +02:00
+categories:
 - railslove
-tags: 
-  keyword: 
+tags:
+  keyword:
   - railslove
   - wurst
   - dontforgetthewurst

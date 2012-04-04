@@ -1,5 +1,5 @@
---- 
-title: "[edge Rails] :only/:except options for map.resources "
+---
+title: ! '[edge Rails] :only/:except options for map.resources '
 slug: edge-rails-onlyexcept-options-for-mapresources
 author: michael_bumann
 published: true
@@ -8,12 +8,12 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 54
 wordpress_url: http://blog.railslove.com/?p=54
-published_at: 2008-11-12 18:09:29 +01:00
-categories: 
+published_at: 2008-11-12 18:09:29.000000000 +01:00
+categories:
 - edge-rails
 - rails
-tags: 
-  keyword: 
+tags:
+  keyword:
   - edge-rails
   - routes
   - memory

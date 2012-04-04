@@ -1,4 +1,4 @@
---- 
+---
 title: Working The Pomodoro Way
 slug: working-the-pomodoro-way
 author: red_davis
@@ -8,11 +8,11 @@ author_email: reddavis@gmail.com
 author_url: http://redwriteshere.com/
 wordpress_id: 689
 wordpress_url: http://blog.railslove.com/?p=689
-published_at: 2010-10-10 12:13:27 +02:00
-categories: 
+published_at: 2010-10-10 12:13:27.000000000 +02:00
+categories:
 - railslove
-tags: 
-  keyword: 
+tags:
+  keyword:
   - productivity
   - pomodoro
 ---

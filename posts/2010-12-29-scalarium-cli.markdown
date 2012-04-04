@@ -1,4 +1,4 @@
---- 
+---
 title: Scalarium CLI
 slug: scalarium-cli
 author: red_davis
@@ -8,12 +8,12 @@ author_email: reddavis@gmail.com
 author_url: http://redwriteshere.com/
 wordpress_id: 780
 wordpress_url: http://blog.railslove.com/?p=780
-published_at: 2010-12-29 19:28:38 +01:00
-categories: 
+published_at: 2010-12-29 19:28:38.000000000 +01:00
+categories:
 - ruby
 - oss
-tags: 
-  keyword: 
+tags:
+  keyword:
   - ruby
   - gem
   - scalarium

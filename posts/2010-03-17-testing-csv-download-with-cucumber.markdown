@@ -1,4 +1,4 @@
---- 
+---
 title: Testing CSV Download With Cucumber
 slug: testing-csv-download-with-cucumber
 author: red_davis
@@ -8,12 +8,12 @@ author_email: reddavis@gmail.com
 author_url: http://redwriteshere.com/
 wordpress_id: 607
 wordpress_url: http://blog.railslove.com/?p=607
-published_at: 2010-03-17 19:18:11 +01:00
-categories: 
+published_at: 2010-03-17 19:18:11.000000000 +01:00
+categories:
 - rails
 - ruby
-tags: 
-  keyword: 
+tags:
+  keyword:
   - rails
   - cucumber
   - testing

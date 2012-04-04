@@ -1,4 +1,4 @@
---- 
+---
 title: Railslove proudly annouces Railslove University
 slug: railslove-proudly-annouces-railslove-university
 author: jan_kus
@@ -8,12 +8,12 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 1237
 wordpress_url: http://blog.railslove.com/?p=1237
-published_at: 2012-02-15 22:25:31 +01:00
-categories: 
+published_at: 2012-02-15 22:25:31.000000000 +01:00
+categories:
 - railslove
 - university
-tags: 
-  keyword: 
+tags:
+  keyword:
   - rails
   - workshops
   - university
@@ -29,7 +29,7 @@ On the 4th of January we started with 9 participants and a day full of Ruby. <a 
 
 <a href="http://blog.railslove.com/wp-content/uploads/2012/02/Railslove-Workshops1.jpg"><img src="http://blog.railslove.com/wp-content/uploads/2012/02/Railslove-Workshops1.jpg" alt="" title="Rails from Scratch Team" width="500" height="334" class="aligncenter size-full wp-image-1238" /></a>
 
-As a motivation to go further and because we like a little competition all workshop participants were invited to a coding challenge, endowed with a 50 &acirc;?&not; amazon.de voucher. All in all we had a great time and so did our trainees. Here's what <a href="https://twitter.com/timmes">Tim Czubayko</a> said about it:
+As a motivation to go further and because we like a little competition all workshop participants were invited to a coding challenge, endowed with a 50 € amazon.de voucher. All in all we had a great time and so did our trainees. Here's what <a href="https://twitter.com/timmes">Tim Czubayko</a> said about it:
 
 <blockquote>One workshop. Three speakers. And a lot of interesting hands-on parts. The "Ruby on Rails from Scratch" workshop showed that test-driven development is a lot more fun than I've expected. With this workshop I'm up with all the advanced basics of Rub on Rails programming.</blockquote>
 

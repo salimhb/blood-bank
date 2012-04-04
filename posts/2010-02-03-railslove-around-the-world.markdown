@@ -1,4 +1,4 @@
---- 
+---
 title: Railslove around the world
 slug: railslove-around-the-world
 author: michael_bumann
@@ -8,11 +8,11 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 579
 wordpress_url: http://blog.railslove.com/?p=579
-published_at: 2010-02-03 13:01:54 +01:00
-categories: 
+published_at: 2010-02-03 13:01:54.000000000 +01:00
+categories:
 - railslove
-tags: 
-  keyword: 
+tags:
+  keyword:
   - tumble
 ---
 </p>

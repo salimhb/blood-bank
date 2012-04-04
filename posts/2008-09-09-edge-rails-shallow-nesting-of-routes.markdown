@@ -1,5 +1,5 @@
---- 
-title: "[edge Rails] shallow nesting of routes"
+---
+title: ! '[edge Rails] shallow nesting of routes'
 slug: edge-rails-shallow-nesting-of-routes
 author: michael_bumann
 published: true
@@ -8,13 +8,13 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 33
 wordpress_url: http://blog.railslove.com/?p=33
-published_at: 2008-09-09 15:59:13 +02:00
-categories: 
+published_at: 2008-09-09 15:59:13.000000000 +02:00
+categories:
 - railslove
 - edge-rails
 - rails
-tags: 
-  keyword: 
+tags:
+  keyword:
   - rails
   - edge-rails
   - rubyonrails

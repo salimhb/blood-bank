@@ -1,4 +1,4 @@
---- 
+---
 title: DevHouse Friday @ Simfy
 slug: devhouse-friday-simfy
 author: manuel_korfmann
@@ -8,8 +8,8 @@ author_email: manuel@railslove.com
 author_url: http://railslove.com
 wordpress_id: 986
 wordpress_url: http://blog.railslove.com/?p=986
-published_at: 2011-08-15 18:52:35 +02:00
-categories: 
+published_at: 2011-08-15 18:52:35.000000000 +02:00
+categories:
 - javascript
 - devhousefriday
 - nerdpursuit
@@ -23,7 +23,7 @@ Dieses mal gastiert der DevHouse Friday bei <a href="http://www.simfy.de" target
 
 Kickertisch, Terasse, Beamer als auch fette Beschallung sind vorhanden.
 
-Wenn das nicht genug Argumente sind vorbei zu kommen, legt simfy noch einen Premium-Gutschein f&Atilde;&frac14;r einen Monat drauf.
+Wenn das nicht genug Argumente sind vorbei zu kommen, legt simfy noch einen Premium-Gutschein für einen Monat drauf.
 </p>
 
 <p>
@@ -31,7 +31,7 @@ Wenn das nicht genug Argumente sind vorbei zu kommen, legt simfy noch einen Prem
 </p>
 
 <p>
-<strong>WO: <a href="http://maps.google.de/maps/place?q=Simfy,+Vogelsanger+Str.,+187&hl=de&cid=4487133234066811329" target="_blank"> simfy GmbH, Vogelsanger Stra&Atilde;?e 187, K&Atilde;&para;ln</a></strong>
+<strong>WO: <a href="http://maps.google.de/maps/place?q=Simfy,+Vogelsanger+Str.,+187&hl=de&cid=4487133234066811329" target="_blank"> simfy GmbH, Vogelsanger Straße 187, Köln</a></strong>
 </p>
 
 <p>
@@ -39,7 +39,7 @@ Wenn das nicht genug Argumente sind vorbei zu kommen, legt simfy noch einen Prem
 </p>
 
 <p>
-MORE:&Acirc;&nbsp;<a href="http://devhousefriday.org/">http://devhousefriday.org/</a> AND&Acirc;&nbsp;<a href="http://twitter.com/devhousefriday">@devhousefriday</a>
+MORE: <a href="http://devhousefriday.org/">http://devhousefriday.org/</a> AND <a href="http://twitter.com/devhousefriday">@devhousefriday</a>
 </p>
 
 <p>Der erste Rock'n'Roll Devhouse Friday erwartet euch!</p>

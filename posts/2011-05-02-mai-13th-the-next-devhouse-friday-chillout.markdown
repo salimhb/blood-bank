@@ -1,4 +1,4 @@
---- 
+---
 title: Mai 13th - the next DevHouse Friday Chillout
 slug: mai-13th-the-next-devhouse-friday-chillout
 author: jan_kus
@@ -8,8 +8,8 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 939
 wordpress_url: http://blog.railslove.com/?p=939
-published_at: 2011-05-02 10:36:22 +02:00
-categories: 
+published_at: 2011-05-02 10:36:22.000000000 +02:00
+categories:
 - railslove
 - devhousefriday
 - conference
@@ -23,7 +23,7 @@ What kind of trouble? How did you resolved it? Tell us everything!
 <strong>Am 13.05.2011 um 19:00 Uhr</strong>
 
 millepondo services
-Heinrich-Br&Atilde;&frac14;ning-Str. 8
+Heinrich-Brüning-Str. 8
 50969 Cologne Deutschland (Germany)
 
 <a href="http://www.millepondo.de">http://www.millepondo.de</a>

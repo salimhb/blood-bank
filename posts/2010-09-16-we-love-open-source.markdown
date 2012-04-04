@@ -1,4 +1,4 @@
---- 
+---
 title: We Love Open Source
 slug: we-love-open-source
 author: red_davis
@@ -8,11 +8,11 @@ author_email: reddavis@gmail.com
 author_url: http://redwriteshere.com/
 wordpress_id: 631
 wordpress_url: http://blog.railslove.com/?p=631
-published_at: 2010-09-16 19:42:06 +02:00
-categories: 
+published_at: 2010-09-16 19:42:06.000000000 +02:00
+categories:
 - railslove
-tags: 
-  keyword: 
+tags:
+  keyword:
   - github
   - opensource
   - code

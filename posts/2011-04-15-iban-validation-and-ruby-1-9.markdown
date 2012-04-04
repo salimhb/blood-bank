@@ -1,4 +1,4 @@
---- 
+---
 title: IBAN Validation and Ruby 1.9
 slug: iban-validation-and-ruby-1-9
 author: jan_kus
@@ -8,11 +8,11 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 934
 wordpress_url: http://blog.railslove.com/?p=934
-published_at: 2011-04-15 15:52:30 +02:00
-categories: 
+published_at: 2011-04-15 15:52:30.000000000 +02:00
+categories:
 - rails
-tags: 
-  keyword: 
+tags:
+  keyword:
   - ruby
   - iban
   - bic

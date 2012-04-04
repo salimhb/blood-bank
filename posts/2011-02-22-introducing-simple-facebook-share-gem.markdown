@@ -1,4 +1,4 @@
---- 
+---
 title: Introducing simple Facebook Share gem
 slug: introducing-simple-facebook-share-gem
 author: mike_poltyn
@@ -8,8 +8,8 @@ author_email: mike@railslove.com
 author_url: http://mike.poltyn.com
 wordpress_id: 831
 wordpress_url: http://blog.railslove.com/?p=831
-published_at: 2011-02-22 18:56:00 +01:00
-categories: 
+published_at: 2011-02-22 18:56:00.000000000 +01:00
+categories:
 - rails
 ---
 I really love how JavaScript can help you integrate social media into your application. But using the same code over, and over again is just annoying.  Therefore, when I was working on inserting a <a href="http://developers.facebook.com/docs/reference/rest/stream.publish/">Facebook share button</a> here and there into our app, I thought, why do I have to repeat everything over and over? So, after a day of hacking, I came up with a simple <a href="https://github.com/holek/facebook_share">gem <tt>facebook_share</tt></a>. This gem will insert any JavaScript needed for Facebook share buttons to work.

@@ -1,5 +1,5 @@
---- 
-title: "Rails Rumble 2009 - we've built nybbl.me "
+---
+title: ! 'Rails Rumble 2009 - we''ve built nybbl.me '
 slug: rails-rumble-2009-weve-built-nybblme
 author: michael_bumann
 published: true
@@ -8,8 +8,8 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 479
 wordpress_url: http://blog.railslove.com/?p=479
-published_at: 2009-08-25 12:41:05 +02:00
-categories: 
+published_at: 2009-08-25 12:41:05.000000000 +02:00
+categories:
 - railslove
 ---
 <a href="http://nybbl.me"><img src="http://blog.railslove.com/wp-content/uploads/2009/08/nybble-2-300x85.jpg" alt="Nybbl.me - flavour learning" title="Nybbl.me" width="300" height="85" class="size-medium wp-image-482" /></a>

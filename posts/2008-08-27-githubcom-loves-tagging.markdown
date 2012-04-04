@@ -1,4 +1,4 @@
---- 
+---
 title: GitHub.com loves Tagging
 slug: githubcom-loves-tagging
 author: michael_bumann
@@ -8,11 +8,11 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 28
 wordpress_url: http://blog.railslove.com/?p=28
-published_at: 2008-08-27 13:10:47 +02:00
-categories: 
+published_at: 2008-08-27 13:10:47.000000000 +02:00
+categories:
 - app-a-day
-tags: 
-  keyword: 
+tags:
+  keyword:
   - github
   - github-tagger
   - tagging

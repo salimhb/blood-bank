@@ -1,4 +1,4 @@
---- 
+---
 title: Global Day of Coderetreat Cologne / Bonn
 slug: global-day-of-coderetreat-cologne-bonn
 author: jan_kus
@@ -8,11 +8,11 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 1154
 wordpress_url: http://blog.railslove.com/?p=1154
-published_at: 2011-11-03 12:04:54 +01:00
-categories: 
+published_at: 2011-11-03 12:04:54.000000000 +01:00
+categories:
 - conference
-tags: 
-  keyword: 
+tags:
+  keyword:
   - code
   - coderetreat
   - global

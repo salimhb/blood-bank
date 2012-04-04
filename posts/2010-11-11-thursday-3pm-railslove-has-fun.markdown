@@ -1,4 +1,4 @@
---- 
+---
 title: Thursday, 3PM - Railslove has fun
 slug: thursday-3pm-railslove-has-fun
 author: jan_kus
@@ -8,8 +8,8 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 745
 wordpress_url: http://blog.railslove.com/?p=745
-published_at: 2010-11-11 15:48:03 +01:00
-categories: 
+published_at: 2010-11-11 15:48:03.000000000 +01:00
+categories:
 - railslove
 ---
 In Bath...

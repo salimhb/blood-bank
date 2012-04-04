@@ -1,4 +1,4 @@
---- 
+---
 title: New Stickers!
 slug: new-stickers
 author: red_davis
@@ -8,11 +8,11 @@ author_email: reddavis@gmail.com
 author_url: http://redwriteshere.com/
 wordpress_id: 727
 wordpress_url: http://blog.railslove.com/?p=727
-published_at: 2010-10-26 16:42:51 +02:00
-categories: 
+published_at: 2010-10-26 16:42:51.000000000 +02:00
+categories:
 - railslove
-tags: 
-  keyword: 
+tags:
+  keyword:
   - railslove
   - nybblme
   - stickers

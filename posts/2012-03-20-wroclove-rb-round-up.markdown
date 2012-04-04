@@ -1,4 +1,4 @@
---- 
+---
 title: Wroclove.rb round-up
 slug: wroclove-rb-round-up
 author: mike_poltyn
@@ -8,11 +8,11 @@ author_email: mike@railslove.com
 author_url: http://mike.poltyn.com
 wordpress_id: 1324
 wordpress_url: http://blog.railslove.com/?p=1324
-published_at: 2012-03-20 14:56:03 +01:00
-categories: 
+published_at: 2012-03-20 14:56:03.000000000 +01:00
+categories:
 - railslove
 ---
-It's been over a week since our crew, that is <a href="http://railslove.com/items/mike_poltyn">me</a>, <a href="http://railslove.com/items/jan_kus">Jan</a> and <a href="http://railslove.com/items/georg_leciejewski">Georg</a> went on a trip to the beautiful city of Wroc&Aring;?aw.
+It's been over a week since our crew, that is <a href="http://railslove.com/items/mike_poltyn">me</a>, <a href="http://railslove.com/items/jan_kus">Jan</a> and <a href="http://railslove.com/items/georg_leciejewski">Georg</a> went on a trip to the beautiful city of Wrocław.
 
 <center><a href="https://twitter.com/#!/holek_/status/178066044106178561"><img src="https://img.skitch.com/20120320-nfmgw15m8s1rrw74icxyjsw51w.png"/></a></center>
 

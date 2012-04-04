@@ -1,4 +1,4 @@
---- 
+---
 title: Railsgirls comes to Berlin
 slug: railsgirls-comes-to-berlin
 author: lena_herrmann
@@ -7,13 +7,13 @@ author_name: Lena
 author_email: lena@railslove.com
 wordpress_id: 1272
 wordpress_url: http://blog.railslove.com/?p=1272
-published_at: 2012-03-01 14:57:15 +01:00
-categories: 
+published_at: 2012-03-01 14:57:15.000000000 +01:00
+categories:
 - railslove
 - university
 - railsgirls
-tags: 
-  keyword: 
+tags:
+  keyword:
   - rails
   - berlin
   - event

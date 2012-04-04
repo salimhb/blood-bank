@@ -1,4 +1,4 @@
---- 
+---
 title: No magic behind it but everytime worth to remember
 slug: rspec-refactoring-and-shared-example-groups
 author: jan_kus
@@ -8,8 +8,8 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 1160
 wordpress_url: http://blog.railslove.com/?p=1160
-published_at: 2011-11-23 23:18:49 +01:00
-categories: 
+published_at: 2011-11-23 23:18:49.000000000 +01:00
+categories:
 - railslove
 ---
 <h2>Rspec Refactoring and Shared Example Groups</h2>

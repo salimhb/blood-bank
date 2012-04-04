@@ -1,4 +1,4 @@
---- 
+---
 title: Freckly + Freckly App
 slug: freckly-freckly-app
 author: red_davis
@@ -8,14 +8,14 @@ author_email: reddavis@gmail.com
 author_url: http://redwriteshere.com/
 wordpress_id: 690
 wordpress_url: http://blog.railslove.com/?p=690
-published_at: 2010-10-07 19:51:46 +02:00
-categories: 
+published_at: 2010-10-07 19:51:46.000000000 +02:00
+categories:
 - railslove
 - cool-stuff-on-github
 - ruby
 - oss
-tags: 
-  keyword: 
+tags:
+  keyword:
   - freckle
   - pivotal-tracker
   - oss

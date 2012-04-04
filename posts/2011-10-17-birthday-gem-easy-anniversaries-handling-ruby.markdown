@@ -1,5 +1,5 @@
---- 
-title: "\"Birthday\" gem for easy anniversaries handling"
+---
+title: ! '"Birthday" gem for easy anniversaries handling'
 slug: birthday-gem-easy-anniversaries-handling-ruby
 author: mike_poltyn
 published: true
@@ -8,11 +8,11 @@ author_email: mike@railslove.com
 author_url: http://mike.poltyn.com
 wordpress_id: 1112
 wordpress_url: http://blog.railslove.com/?p=1112
-published_at: 2011-10-17 11:59:10 +02:00
-categories: 
+published_at: 2011-10-17 11:59:10.000000000 +02:00
+categories:
 - plugins
-tags: 
-  keyword: 
+tags:
+  keyword:
   - activerecord-activesupport-gem-rubygems-birthday-anniversaries
 ---
 While working on one of our client projects, I was asked to create a search for users' birthdays. Instantly, I remembered what problems I had with it in the past, like taking care of not only finding the right dates by only day and month, but also, checking for birthdays today, any upcoming birthdays, or even just looking up user's age based on that information.

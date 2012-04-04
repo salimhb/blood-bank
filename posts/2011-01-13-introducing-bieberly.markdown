@@ -1,4 +1,4 @@
---- 
+---
 title: Introducing Bieber.ly
 slug: introducing-bieberly
 author: red_davis
@@ -8,11 +8,11 @@ author_email: reddavis@gmail.com
 author_url: http://redwriteshere.com/
 wordpress_id: 795
 wordpress_url: http://blog.railslove.com/?p=795
-published_at: 2011-01-13 15:39:23 +01:00
-categories: 
+published_at: 2011-01-13 15:39:23.000000000 +01:00
+categories:
 - ruby
-tags: 
-  keyword: 
+tags:
+  keyword:
   - ruby
   - heroku
   - bieber

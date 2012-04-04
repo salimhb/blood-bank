@@ -1,4 +1,4 @@
---- 
+---
 title: Say Hey to Nybbl.me
 slug: say-hey-to-nybblme
 author: red_davis
@@ -8,11 +8,11 @@ author_email: reddavis@gmail.com
 author_url: http://redwriteshere.com/
 wordpress_id: 733
 wordpress_url: http://blog.railslove.com/?p=733
-published_at: 2010-11-01 12:36:54 +01:00
-categories: 
+published_at: 2010-11-01 12:36:54.000000000 +01:00
+categories:
 - nybblme
-tags: 
-  keyword: 
+tags:
+  keyword:
   - nybblme
   - project
 ---

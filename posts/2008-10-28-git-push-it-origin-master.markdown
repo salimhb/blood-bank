@@ -1,4 +1,4 @@
---- 
+---
 title: git Push (it) origin master
 slug: git-push-it-origin-master
 author: jan_kus
@@ -8,8 +8,8 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 51
 wordpress_url: http://blog.railslove.com/?p=51
-published_at: 2008-10-28 16:31:06 +01:00
-categories: 
+published_at: 2008-10-28 16:31:06.000000000 +01:00
+categories:
 - railslove
 ---
 We all love git!

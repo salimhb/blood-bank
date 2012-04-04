@@ -1,4 +1,4 @@
---- 
+---
 title: Meet us in Berlin
 slug: meet-us-in-berlin
 author: michael_bumann
@@ -8,8 +8,8 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 45
 wordpress_url: http://blog.railslove.com/?p=45
-published_at: 2008-10-16 00:22:05 +02:00
-categories: 
+published_at: 2008-10-16 00:22:05.000000000 +02:00
+categories:
 - railslove
 ---
 It seems like Berlin is the center of the web world this october. With <a href="http://barcampberlin3.mixxt.org/">BarCamp Berlin 3</a>, <a href="http://en.oreilly.com/webexberlin2008/">Web 2.0 expo</a>, <a href="http://www.facebook.com/group.php?gid=11222753500&ref=ts">FaceBook Developer Garage</a>, <a href="http://webmontag.de">WebMontag</a>, <a href="http://girlgeekdinner.de/">Girl Geek Dinner</a>, <a href="http://pl0gbar.de">Pl0gbar</a>, etc. the calendar in Berlin is pretty packed and really awesome events are ahead of us. 

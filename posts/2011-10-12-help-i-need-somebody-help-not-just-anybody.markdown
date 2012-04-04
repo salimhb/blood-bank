@@ -1,4 +1,4 @@
---- 
+---
 title: Help You need somebody; Help not just anybody!
 slug: help-i-need-somebody-help-not-just-anybody
 author: jan_kus
@@ -8,15 +8,15 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 1058
 wordpress_url: http://blog.railslove.com/?p=1058
-published_at: 2011-10-12 00:36:28 +02:00
-categories: 
+published_at: 2011-10-12 00:36:28.000000000 +02:00
+categories:
 - railslove
 - railslove-on-tour
 - rails
 - javascript
 - ruby
-tags: 
-  keyword: 
+tags:
+  keyword:
   - rails
   - ruby
   - teaching

@@ -1,4 +1,4 @@
---- 
+---
 title: What we are really doing after our working hours
 slug: what-we-are-really-doing-after-our-working-hours
 author: jan_kus
@@ -8,8 +8,8 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 620
 wordpress_url: http://blog.railslove.com/?p=620
-published_at: 2010-08-19 02:50:04 +02:00
-categories: 
+published_at: 2010-08-19 02:50:04.000000000 +02:00
+categories:
 - railslove
 ---
 This is a very short post about what is railslove doing after working hours. Yes, we're drinking beer, playing urban terror or somking cigars and thinking about "how we do spend our next million"....

@@ -1,4 +1,4 @@
---- 
+---
 title: Using Scalarium CLI
 slug: using-scalarium-cli
 author: jan_kus
@@ -8,8 +8,8 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 789
 wordpress_url: http://blog.railslove.com/?p=789
-published_at: 2011-01-13 10:41:57 +01:00
-categories: 
+published_at: 2011-01-13 10:41:57.000000000 +01:00
+categories:
 - railslove
 ---
 In one of our projects we've used <a href="https://github.com/railslove/Scalarium-CLI">Scalarium CLI gem</a> for an automatic deployment to amazon ec2 servers in combination with our <a href="https://github.com/defunkt/cijoe">CI Server - CIJoe</a>. Its really easy.

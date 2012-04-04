@@ -1,4 +1,4 @@
---- 
+---
 title: Railcamp Poland after some time
 slug: railcamp-poland-after-some-time
 author: mike_poltyn
@@ -8,11 +8,11 @@ author_email: mike@railslove.com
 author_url: http://mike.poltyn.com
 wordpress_id: 951
 wordpress_url: http://blog.railslove.com/?p=951
-published_at: 2011-07-21 12:56:55 +02:00
-categories: 
+published_at: 2011-07-21 12:56:55.000000000 +02:00
+categories:
 - railslove
 ---
-In April, we, in cooperation with few Rails community companies, have organized the first edition of <a href="http://railscamp.pl">Railscamp Poland</a>. Railscamp Poland took place in <a href="http://en.wikipedia.org/wiki/Wis%C5%82a">Wis&Aring;?a</a>, the same Wis&Aring;?a where <a href="http://en.wikipedia.org/wiki/Adam_Ma%C5%82ysz">Adam Ma&Aring;?ysz</a>, a legendary former ski jumper, is from. We are very happy how the event turned out, and that many people spoke well about the organization of it.
+In April, we, in cooperation with few Rails community companies, have organized the first edition of <a href="http://railscamp.pl">Railscamp Poland</a>. Railscamp Poland took place in <a href="http://en.wikipedia.org/wiki/Wis%C5%82a">Wisła</a>, the same Wisła where <a href="http://en.wikipedia.org/wiki/Adam_Ma%C5%82ysz">Adam Małysz</a>, a legendary former ski jumper, is from. We are very happy how the event turned out, and that many people spoke well about the organization of it.
 
 So, right now, when I look back at the event, what do I see?
 

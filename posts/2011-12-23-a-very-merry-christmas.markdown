@@ -1,4 +1,4 @@
---- 
+---
 title: a very Merry Christmas
 slug: a-very-merry-christmas
 author: michael_bumann
@@ -8,8 +8,8 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 1190
 wordpress_url: http://blog.railslove.com/?p=1190
-published_at: 2011-12-23 15:41:05 +01:00
-categories: 
+published_at: 2011-12-23 15:41:05.000000000 +01:00
+categories:
 - railslove
 ---
 <p style="text-align: center;"><a href="http://blog.railslove.com/wp-content/uploads/2011/12/weihnachtskarte_thumb1.jpg">

@@ -1,5 +1,5 @@
---- 
-title: "[edge Rails] application.rb is now application_controller.rb"
+---
+title: ! '[edge Rails] application.rb is now application_controller.rb'
 slug: edge-rails-applicationrb-is-now-application_controllerrb
 author: michael_bumann
 published: true
@@ -8,11 +8,11 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 56
 wordpress_url: http://blog.railslove.com/?p=56
-published_at: 2008-11-18 03:58:22 +01:00
-categories: 
+published_at: 2008-11-18 03:58:22.000000000 +01:00
+categories:
 - railslove
-tags: 
-  keyword: 
+tags:
+  keyword:
   - rails
   - edge-rails
 ---

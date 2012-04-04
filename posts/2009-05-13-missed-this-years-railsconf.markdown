@@ -1,4 +1,4 @@
---- 
+---
 title: missed this years railsconf?
 slug: missed-this-years-railsconf
 author: michael_bumann
@@ -8,8 +8,8 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 279
 wordpress_url: http://blog.railslove.com/?p=279
-published_at: 2009-05-13 19:56:25 +02:00
-categories: 
+published_at: 2009-05-13 19:56:25.000000000 +02:00
+categories:
 - railslove
 ---
 <p>Have you missed this years Railsconf in Las Vegas like we did? <br />

@@ -1,4 +1,4 @@
---- 
+---
 title: Happy Christmas!
 slug: happy-christmas
 author: red_davis
@@ -8,11 +8,11 @@ author_email: reddavis@gmail.com
 author_url: http://redwriteshere.com/
 wordpress_id: 750
 wordpress_url: http://blog.railslove.com/?p=750
-published_at: 2010-12-17 16:37:34 +01:00
-categories: 
+published_at: 2010-12-17 16:37:34.000000000 +01:00
+categories:
 - railslove
-tags: 
-  keyword: 
+tags:
+  keyword:
   - stickers
   - christmas
 ---

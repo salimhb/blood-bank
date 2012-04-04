@@ -1,4 +1,4 @@
---- 
+---
 title: On the way to Rails 3  - a link list
 slug: on-the-way-to-rails-3-a-link-list
 author: michael_bumann
@@ -8,12 +8,12 @@ author_email: michael@railslove.com
 author_url: http://
 wordpress_id: 567
 wordpress_url: http://blog.railslove.com/?p=567
-published_at: 2010-02-02 15:58:40 +01:00
-categories: 
+published_at: 2010-02-02 15:58:40.000000000 +01:00
+categories:
 - railslove
 - rails
-tags: 
-  keyword: 
+tags:
+  keyword:
   - rails3
 ---
 Rails 3 is coming! The first beta release of the new version is right around the corner and it should be released today or tomorrow... the <a href="http://github.com/rails/rails/commit/428bdb50631ba03847367a15fedb2289269cd789">release notes</a> are already in the master branch.<br />
@@ -49,7 +49,7 @@ Actually all of these links are "must-reads" but for those of you with little ti
 
 <ul>
 <li><a href="http://m.onkey.org/2010/1/22/active-record-query-interface">Active Record Query Interface 3.0</a></li>
-<li><a href="http://www.rubyinside.com/rails-3-0s-activemodel-how-to-give-ruby-classes-some-activerecord-magic-2937.html">Rails 3.0&acirc;??s ActiveModel: How To Give Ruby Classes Some ActiveRecord Magic</a></li>
+<li><a href="http://www.rubyinside.com/rails-3-0s-activemodel-how-to-give-ruby-classes-some-activerecord-magic-2937.html">Rails 3.0’s ActiveModel: How To Give Ruby Classes Some ActiveRecord Magic</a></li>
 <li><a href="http://yehudakatz.com/2010/01/10/activemodel-make-any-ruby-object-feel-like-activerecord/">ActiveModel: Make Any Ruby Object Feel Like ActiveRecord</a></li>
 <li><a href="http://github.com/rails/arel">Arel source code and readme</a></li>
 <li><a href="http://magicscalingsprinkles.wordpress.com/2010/01/28/why-i-wrote-arel/">Why Arel</a></li>

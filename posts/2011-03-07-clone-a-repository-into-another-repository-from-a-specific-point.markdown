@@ -1,4 +1,4 @@
---- 
+---
 title: How to clone a repository into another repository from a specific point
 slug: clone-a-repository-into-another-repository-from-a-specific-point
 author: mike_poltyn
@@ -8,8 +8,8 @@ author_email: mike@railslove.com
 author_url: http://mike.poltyn.com
 wordpress_id: 863
 wordpress_url: http://blog.railslove.com/?p=863
-published_at: 2011-03-07 17:25:05 +01:00
-categories: 
+published_at: 2011-03-07 17:25:05.000000000 +01:00
+categories:
 - railslove
 ---
 While working on our project I had to create a repository clone up until a specific commit. So, I began researching and after trial and error, I finally made it. Therefore, I thought I will share what I've done with the community, as copying a git repository is not the easiest task.

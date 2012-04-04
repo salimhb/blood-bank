@@ -1,4 +1,4 @@
---- 
+---
 title: We are Railslove
 slug: we-are-railslove
 author: jan_kus
@@ -8,8 +8,8 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 519
 wordpress_url: http://blog.railslove.com/?p=519
-published_at: 2009-12-12 19:13:31 +01:00
-categories: 
+published_at: 2009-12-12 19:13:31.000000000 +01:00
+categories:
 - railslove
 ---
 Since 2008 we have been building web applications for you. We've done some really great projects with our partners and we're happy to see our own web service, channelthing, growing. So, we think it is time to introduce ourselves in more than 140 chars.

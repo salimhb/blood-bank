@@ -1,4 +1,4 @@
---- 
+---
 title: Say Hello To Manuel
 slug: say-hello-to-manuel
 author: jan_kus
@@ -8,8 +8,8 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 942
 wordpress_url: http://blog.railslove.com/?p=942
-published_at: 2011-05-06 22:49:38 +02:00
-categories: 
+published_at: 2011-05-06 22:49:38.000000000 +02:00
+categories:
 - railslove
 ---
 As mentioned on <a href="https://twitter.com/railslove/status/66553385335263233">twitter</a> we want to introduce you to <a href="http://railslove.com/about-us#manuel_korfmann">Manuel Korfmann</a>.

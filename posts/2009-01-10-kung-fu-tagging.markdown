@@ -1,4 +1,4 @@
---- 
+---
 title: Kung fu tagging
 slug: kung-fu-tagging
 author: jan_kus
@@ -8,11 +8,11 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 75
 wordpress_url: http://blog.railslove.com/2009/01/10/kung-fu-tagging/
-published_at: 2009-01-10 17:48:17 +01:00
-categories: 
+published_at: 2009-01-10 17:48:17.000000000 +01:00
+categories:
 - railslove
-tags: 
-  keyword: 
+tags:
+  keyword:
   - tagging
   - action
   - tags

@@ -1,4 +1,4 @@
---- 
+---
 title: The DevHouseFriday Chillout and the stolen Adcloud chair
 slug: the-devhousefriday-chillout-and-chair
 author: jan_kus
@@ -8,13 +8,13 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 1041
 wordpress_url: http://blog.railslove.com/?p=1041
-published_at: 2011-09-27 14:01:54 +02:00
-categories: 
+published_at: 2011-09-27 14:01:54.000000000 +02:00
+categories:
 - railslove
 - railslove-on-tour
 - devhousefriday
-tags: 
-  keyword: 
+tags:
+  keyword:
   - devhouse
   - devhousefriday
   - salesking

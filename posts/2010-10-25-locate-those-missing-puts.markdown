@@ -1,4 +1,4 @@
---- 
+---
 title: Locate those Missing Puts!
 slug: locate-those-missing-puts
 author: red_davis
@@ -8,13 +8,13 @@ author_email: reddavis@gmail.com
 author_url: http://redwriteshere.com/
 wordpress_id: 724
 wordpress_url: http://blog.railslove.com/?p=724
-published_at: 2010-10-25 13:40:01 +02:00
-categories: 
+published_at: 2010-10-25 13:40:01.000000000 +02:00
+categories:
 - rails
 - cool-stuff-on-github
 - ruby
-tags: 
-  keyword: 
+tags:
+  keyword:
   - rails
   - ruby
   - gem

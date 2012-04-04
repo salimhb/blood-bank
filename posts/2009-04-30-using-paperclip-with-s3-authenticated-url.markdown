@@ -1,4 +1,4 @@
---- 
+---
 title: Using Paperclip with S3 authenticated url
 slug: using-paperclip-with-s3-authenticated-url
 author: jan_kus
@@ -8,8 +8,8 @@ author_email: jan@railslove.com
 author_url: http://www.railslove.com
 wordpress_id: 188
 wordpress_url: http://blog.railslove.com/?p=188
-published_at: 2009-04-30 15:13:29 +02:00
-categories: 
+published_at: 2009-04-30 15:13:29.000000000 +02:00
+categories:
 - rails
 - plugins
 - channelthing
@@ -19,11 +19,11 @@ categories:
 - security
 - attachments
 ---
-F&Atilde;&frac14;r <a href="http://channelthing.com/landing.html">Channelthing</a> ist es besonders wichtig, dass die hochgeladenen Dokumente, die wir bei <a href="http://aws.amazon.com/s3/">S3</a> ablegen, nur durch authentifizierte Benutzer abgerufen werden k&Atilde;&para;nnen. Daher haben wir uns eine kleine Extension zu <a href="http://thoughtbot.com/projects/paperclip">Paperclip</a> gebaut, die solch eine verschl&Atilde;&frac14;sselte URL von S3 erh&Atilde;&curren;lt, sobald ein Dokument, etc. angezeigt werden soll. 
+Für <a href="http://channelthing.com/landing.html">Channelthing</a> ist es besonders wichtig, dass die hochgeladenen Dokumente, die wir bei <a href="http://aws.amazon.com/s3/">S3</a> ablegen, nur durch authentifizierte Benutzer abgerufen werden können. Daher haben wir uns eine kleine Extension zu <a href="http://thoughtbot.com/projects/paperclip">Paperclip</a> gebaut, die solch eine verschlüsselte URL von S3 erhält, sobald ein Dokument, etc. angezeigt werden soll. 
 
 Dazu muss man zum einen den Bucket erstmal "sicher" machen. Mit der kleinen Firefox-Extension <a href="http://www.s3fox.net/Features.aspx?isnew=true&from=addon">S3Fox Organizer</a>. Man erlaubt nur dem Owner auf das Bucket zuzugreifen.
 
-Unsere Extension erh&Atilde;&curren;lt nur die Methode <em>authenticated_s3_url</em> die &Atilde;&frac14;ber die <em>get_link</em> Methode von dem s3-Objekt unsere URL mit einem Hash zur&Atilde;&frac14;ckgibt der nur &Atilde;&frac14;ber eine bestimmte Zeit aufgerufen werden kann. Die <em>url</em>-Methode von Paperclip &Atilde;&frac14;berscheiben wir anschliessend.
+Unsere Extension erhält nur die Methode <em>authenticated_s3_url</em> die über die <em>get_link</em> Methode von dem s3-Objekt unsere URL mit einem Hash zurückgibt der nur über eine bestimmte Zeit aufgerufen werden kann. Die <em>url</em>-Methode von Paperclip überscheiben wir anschliessend.
 
 <pre lang="ruby">
 module Railslove
@@ -43,7 +43,7 @@ Paperclip::Attachment.send(:include, Railslove::Paperclip::SecureS3)
 Paperclip::Attachment.class_eval("alias :url :authenticated_s3_url")
 </pre>
 
-Man sollte daran denken auch die entsprechenden Rechte, jedem hochgeladenem Dokument zu setzen. Die k&Atilde;&para;nnen &Atilde;&frac14;ber den Parameter <em>s3_permissions</em> gesetzt werden:
+Man sollte daran denken auch die entsprechenden Rechte, jedem hochgeladenem Dokument zu setzen. Die können über den Parameter <em>s3_permissions</em> gesetzt werden:
 
 <pre lang="ruby">
 paperclip:
@@ -54,4 +54,4 @@ paperclip:
     s3_permssions: "authenticated-read"
 </pre>
 
-Nun haben wir unser gew&Atilde;&frac14;nschtes Ziel erreicht.
+Nun haben wir unser gewünschtes Ziel erreicht.
