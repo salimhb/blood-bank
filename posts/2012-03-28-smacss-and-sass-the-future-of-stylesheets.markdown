@@ -84,14 +84,12 @@ I feel that all the prefixing adds a lot of distracting verbosity to the stylesh
 The other more minor downside of nesting would be the loss in <strong>CSS performance</strong> due to longer selectors caused by nesting.  However, unless you are not working on a super high performance website with massive reflows, lots of old browsers and complex mobile requirements, most  sources [<a href="http://calendar.perfplanet.com/2011/css-selector-performance-has-changed-for-the-better/">1</a>, <a href="http://bindle.me/blog/index.php/493/is-scss-killing-your-sites-performance">2</a>, <a href="http://www.thebrightlines.com/2010/07/28/css-performance-who-cares/">3</a>, <a href="http://www.stevesouders.com/blog/2009/03/10/performance-impact-of-css-selectors/">4</a>] make me believe that heavily optimizing for CSS performance, isn't really worth the effort, especially in a startup environment.
 
 So, if we say that, on the one side we don't care so much about CSS performance and we do like the visual clarity of SASS nesting, but on the other side we also like the idea of always knowing which components belong to each other based on prefixes, a syntax like this could actually be a compromise:
-``` css
-.dialog
+<pre class="sh_css"><code>.dialog
   width: 500px
   .dialog-header
     font-weight: bold
   .dialog-body
-    font-size: 13px
-```
+    font-size: 13px</code></pre>
 If you then should start to worry about performance at some point you can easily convert to pure SMACSS.  However, I myself am not really sure yet what syntax I really prefer.  What do you think?
 
 <strong>File structure</strong>
