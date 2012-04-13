@@ -7,8 +7,8 @@ published_at: 2012-04-13
 categories:
 - railslove
 ---
-<pre class="hs_javascript"><code>$(document).bind("showoff:loaded", function (event) {
-  $('.content').each( function(index){
-    $(this).parents('.slide').addClass($(this)[0].className).removeClass('content');
-  });
-});</code></pre>
+<pre class="sh_javascript">$(document).bind("showoff:loaded", function (event) {
+$('.content').each( function(index){
+$(this).parents('.slide').addClass($(this)[0].className).removeClass('content');
+});
+});</pre>
