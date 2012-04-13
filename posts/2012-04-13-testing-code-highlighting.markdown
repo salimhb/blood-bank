@@ -7,7 +7,7 @@ published_at: 2012-04-13
 categories:
 - railslove
 ---
-<pre class="hs_js">
+<pre class="hs_javascript">
   $(document).bind("showoff:loaded", function (event) {
     $('.content').each( function(index){
       $(this).parents('.slide').addClass($(this)[0].className).removeClass('content');
