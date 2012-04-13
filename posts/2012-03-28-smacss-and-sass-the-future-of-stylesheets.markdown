@@ -54,7 +54,7 @@ Secondly, the SMACSS approach was born out of experiences building Yahoo Mail an
 When I was talking about SMACSS having 4 categories earlier, I actually left out the 5th category which is "theme".  I did this because, when using SASS, theming can easily be handled by defining variables for the style properties that you want to be themeable (e.g. <code>$themable-border-color</code>), instead of having to apply special classes to all the themable elements (<code>.theme-border</code>).  Here at Railslove we just had to create a new theme (basically a re-branding with different colors) on short notice for our client <a href="http://9flats.com">9flats.com</a> and we were amazed how quickly we could complete this task on a SASS-based website, which would have taken much longer in "the old days".
 <h3><strong>Submodules</strong></h3>
 The best and most straightforward application of SASS functionality to the SMACSS approach is for submodules.  Whenever you need a variation of one of your modules, you are supposed to create a submodule, e.g. <code>.dialog-wide</code> is a submodule of <code>.dialog</code>.  While in traditional SMACSS you would need to apply both classes to your element (<code><div class="dialog dialog-weide" ></code>), using SASS you have the perfect use case for the (underutilized) <a href="http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#extend">@extend</a> feature and you would simply do it this way:
-<pre><code>.dialog
+<pre class="css"><code>.dialog
   width: 300px
   color: blue
 
@@ -73,7 +73,7 @@ One thing that I haven't quite made up my mind about is the syntax within module
 .dialog-body
   font-size: 13px</code></pre>
 This syntax is in some conflict with the way I have gotten used to authoring stylesheets with SASS, making heavy (sometimes too heavy) use of its nesting capabilities & syntax.  Using my traditional SASS style, it would probably look something like this:
-<pre><code>.dialog
+<pre class="sh_css"><code>.dialog
   width: 500px
   .header
     font-weight: bold
@@ -84,7 +84,7 @@ I feel that all the prefixing adds a lot of distracting verbosity to the stylesh
 The other more minor downside of nesting would be the loss in <strong>CSS performance</strong> due to longer selectors caused by nesting.  However, unless you are not working on a super high performance website with massive reflows, lots of old browsers and complex mobile requirements, most  sources [<a href="http://calendar.perfplanet.com/2011/css-selector-performance-has-changed-for-the-better/">1</a>, <a href="http://bindle.me/blog/index.php/493/is-scss-killing-your-sites-performance">2</a>, <a href="http://www.thebrightlines.com/2010/07/28/css-performance-who-cares/">3</a>, <a href="http://www.stevesouders.com/blog/2009/03/10/performance-impact-of-css-selectors/">4</a>] make me believe that heavily optimizing for CSS performance, isn't really worth the effort, especially in a startup environment.
 
 So, if we say that, on the one side we don't care so much about CSS performance and we do like the visual clarity of SASS nesting, but on the other side we also like the idea of always knowing which components belong to each other based on prefixes, a syntax like this could actually be a compromise:
-<pre><code>.dialog
+<pre class="sh_css"><code>.dialog
   width: 500px
   .dialog-header
     font-weight: bold
