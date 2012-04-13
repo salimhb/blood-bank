@@ -54,7 +54,7 @@ Secondly, the SMACSS approach was born out of experiences building Yahoo Mail an
 When I was talking about SMACSS having 4 categories earlier, I actually left out the 5th category which is "theme".  I did this because, when using SASS, theming can easily be handled by defining variables for the style properties that you want to be themeable (e.g. <code>$themable-border-color</code>), instead of having to apply special classes to all the themable elements (<code>.theme-border</code>).  Here at Railslove we just had to create a new theme (basically a re-branding with different colors) on short notice for our client <a href="http://9flats.com">9flats.com</a> and we were amazed how quickly we could complete this task on a SASS-based website, which would have taken much longer in "the old days".
 <h3><strong>Submodules</strong></h3>
 The best and most straightforward application of SASS functionality to the SMACSS approach is for submodules.  Whenever you need a variation of one of your modules, you are supposed to create a submodule, e.g. <code>.dialog-wide</code> is a submodule of <code>.dialog</code>.  While in traditional SMACSS you would need to apply both classes to your element (<code><div class="dialog dialog-weide" ></code>), using SASS you have the perfect use case for the (underutilized) <a href="http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html#extend">@extend</a> feature and you would simply do it this way:
-<pre class="css"><code>.dialog
+<pre class="sh_css"><code>.dialog
   width: 300px
   color: blue
 
@@ -64,7 +64,7 @@ The best and most straightforward application of SASS functionality to the SMACS
 The only thing you need to be aware of, is to never to extend across modules, which would violate the concept of SMACSS and could easily lead to unwanted side effects.
 <h3><strong>Module component syntax</strong></h3>
 One thing that I haven't quite made up my mind about is the syntax within modules.  SMACSS proposes that every component within a module should have a) its own selector (for performance) and b) be prefixed with the module name (for clarity). Like this:
-<pre><code>.dialog
+<pre class="sh_css"><code>.dialog
   width: 500px
 
 .dialog-header
