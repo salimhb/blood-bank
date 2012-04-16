@@ -68,38 +68,52 @@ The best and most straightforward application of SASS functionality to the SMACS
 The only thing you need to be aware of, is to never to extend across modules, which would violate the concept of SMACSS and could easily lead to unwanted side effects.
 <h3><strong>Module component syntax</strong></h3>
 One thing that I haven't quite made up my mind about is the syntax within modules.  SMACSS proposes that every component within a module should have a) its own selector (for performance) and b) be prefixed with the module name (for clarity). Like this:
-<pre class="sh_css"><code>.dialog
+
+~~~css
+.dialog
   width: 500px
 
 .dialog-header
   font-weight: bold
 
 .dialog-body
-  font-size: 13px</code></pre>
+  font-size: 13px
+~~~
+
 This syntax is in some conflict with the way I have gotten used to authoring stylesheets with SASS, making heavy (sometimes too heavy) use of its nesting capabilities & syntax.  Using my traditional SASS style, it would probably look something like this:
-<pre class="sh_css"><code>.dialog
+
+~~~css
+.dialog
   width: 500px
   .header
     font-weight: bold
   .body
-    font-size: 13px</code></pre>
+    font-size: 13px
+~~~
+
 I feel that all the prefixing adds a lot of distracting verbosity to the stylesheet and by nesting all the components underneath the module selector it actually gives it a nice visual closure.  The important requirement here is that you <strong>keep the component number and nesting depth of your module to a minimum</strong>.  But I think in this case applying the modular SMACSS philosophy is actually one of the best things that could happen to SASS, because the <a href="http://compass-style.org/help/tutorials/best_practices/">best practice</a> to minimize your nesting has been pushed too little and therefore been overlooked far too often by SASS practitioners.  However, the big downside with this approach is that you <strong>loose</strong> a lot of <strong>clarity</strong> in the markup, because now it's not obvious anymore to which module a component class such as <code>.header</code> belongs to.  One idea to alleviate this problem could be to have a more obvious naming convention for module selectors (e.g. <code>.<strong>module</strong>-dialog</code>), so it's easier to trace your way up in the markup from a component class to the next module selector it belongs to.
 
 The other more minor downside of nesting would be the loss in <strong>CSS performance</strong> due to longer selectors caused by nesting.  However, unless you are not working on a super high performance website with massive reflows, lots of old browsers and complex mobile requirements, most  sources [<a href="http://calendar.perfplanet.com/2011/css-selector-performance-has-changed-for-the-better/">1</a>, <a href="http://bindle.me/blog/index.php/493/is-scss-killing-your-sites-performance">2</a>, <a href="http://www.thebrightlines.com/2010/07/28/css-performance-who-cares/">3</a>, <a href="http://www.stevesouders.com/blog/2009/03/10/performance-impact-of-css-selectors/">4</a>] make me believe that heavily optimizing for CSS performance, isn't really worth the effort, especially in a startup environment.
 
 So, if we say that, on the one side we don't care so much about CSS performance and we do like the visual clarity of SASS nesting, but on the other side we also like the idea of always knowing which components belong to each other based on prefixes, a syntax like this could actually be a compromise:
-<pre class="sh_css"><code>.dialog
+
+~~~css
+.dialog
   width: 500px
   .dialog-header
     font-weight: bold
   .dialog-body
-    font-size: 13px</code></pre>
+    font-size: 13px
+~~~
+
 If you then should start to worry about performance at some point you can easily convert to pure SMACSS.  However, I myself am not really sure yet what syntax I really prefer.  What do you think?
 
 <strong>File structure</strong>
 
 SMACSS already includes quite sensible naming conventions for selectors, but coming from the Rails/SASS world we obviously also value conventions for our file structure.  My suggestion for a SMACSS+SASS file structure would probably look something like this:
-<pre><code>+ applications.sass                  // @imports
+
+~~~
++ applications.sass                  // @imports
 + base/
 |    _settings.css.sass              // SASS config variables
 |    _reset.css.sass
@@ -111,7 +125,9 @@ SMACSS already includes quite sensible naming conventions for selectors, but com
 |    _settings.css.sass              // SASS layout/grid variables
 |    _containers.css.sass
 + modules/
-+ non-modular/</code></pre>
++ non-modular/
+~~~
+
 I guess there is nothing too surprising in there.  The only thing that I would add is the folder/area for <strong>non-modular</strong> styles.  As I said earlier there are always cases for pages/styles that are not very long-lived, not "fully baked", and so on.  Those should go to the non-modular folder.  Here it probably also makes sense to write highly specific (maybe even controller/view-specific) styles.  With that I would just want to prevent any half-assed styling attempts to bleed into the modular styles.  If styles in there last longer than expected, you can always go back and "graduate" them to proper SMACSS modules.
 
 Concerning file structure there is a little <a href="https://github.com/pengwynn/dotfiles/blob/master/sass/sass.zsh">shell script</a> by Wynn Netherland to create a (much simpler) SMACSS folder structure for SASS, maybe this could be extended for further integration between the two.
