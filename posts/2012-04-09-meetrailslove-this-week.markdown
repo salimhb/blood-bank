@@ -2,6 +2,7 @@
 title: ! '#meetrailslove this week'
 slug: meetrailslove-this-week
 author: jan_kus
+featured_image: http://smacss.com/img/book-covers.png
 published: true
 author_name: Jan
 author_email: jan@railslove.com
