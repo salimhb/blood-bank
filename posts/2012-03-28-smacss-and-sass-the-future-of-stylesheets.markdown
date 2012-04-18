@@ -1,5 +1,5 @@
 ---
-title: SMACSS and SASS - The future of stylesheets
+title: SMACSS and SASS - The future of stylesheets--
 slug: smacss-and-sass-the-future-of-stylesheets
 author: jakob_hilden
 featured_image: http://smacss.com/img/book-covers.png
