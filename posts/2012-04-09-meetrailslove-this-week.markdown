@@ -2,7 +2,6 @@
 title: ! '#meetrailslove this week'
 slug: meetrailslove-this-week
 author: jan_kus
-featured_image: http://blog.railslove.com/wp-content/uploads/2012/05/Bildschirmfoto-2012-05-21-um-13.04.43.png
 published: true
 author_name: Jan
 author_email: jan@railslove.com
