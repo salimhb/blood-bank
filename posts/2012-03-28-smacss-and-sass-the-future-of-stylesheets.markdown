@@ -64,6 +64,7 @@ The best and most straightforward application of SASS functionality to the SMACS
   @extend .dialog
   width: 600px
 ~~~
+
 The only thing you need to be aware of, is to never to extend across modules, which would violate the concept of SMACSS and could easily lead to unwanted side effects.
 <h3><strong>Module component syntax</strong></h3>
 One thing that I haven't quite made up my mind about is the syntax within modules.  SMACSS proposes that every component within a module should have a) its own selector (for performance) and b) be prefixed with the module name (for clarity). Like this:
